@@ -3,7 +3,7 @@ name = "SigmaOS-arch-low-latency-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-low-latency-kernel component"
+description = "SigmaOS SigmaOS-arch-low-latency-kernel component"
 upstream = []
 
 [contract]
